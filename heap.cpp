@@ -21,8 +21,8 @@ int main() {
         minHeap.push(mark);
     }
 
-    cout << "\n✅ Maximum Marks: " << maxHeap.top() << endl;
-    cout << "✅ Minimum Marks: " << minHeap.top() << endl;
+    cout << "\n Maximum Marks: " << maxHeap.top() << endl;
+    cout << " Minimum Marks: " << minHeap.top() << endl;
 
     return 0;
 }
